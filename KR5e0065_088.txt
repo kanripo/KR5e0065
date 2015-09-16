@@ -1,9 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 孫眞人備急千金要方
-#+DATE: 2015-08-29 02:17:01
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: LASTPB  <md:KR5e0065_HFL_004-030b>
-#+PROPERTY: JUAN 88
-
-方
