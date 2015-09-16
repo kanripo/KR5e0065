@@ -6,4 +6,4 @@
 #+PROPERTY: LASTPB  <md:KR5e0065_HFL_004-030b>
 #+PROPERTY: JUAN 28
 
-@by宋
+宋
